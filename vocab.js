@@ -1229,8 +1229,7 @@ const MASTER_VOCAB = [
     speak: "tio",
     speakPhrase: "Jag har tio tår på mina fötter!",
     kidFriendly: true
-  },
-  },
+  }, 
   {
     id: "c2_siffror_11_20",
     chapter: 2,
